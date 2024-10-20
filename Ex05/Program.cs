@@ -23,7 +23,7 @@
                 Console.WriteLine("El número és senar");
             if (multiple == true)
                 Console.WriteLine("El número és múltiple de 7");
-            else
+            else 
                 Console.WriteLine("El número no és múltiple de 7");
 
         }
