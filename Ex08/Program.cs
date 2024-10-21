@@ -6,7 +6,6 @@
         {
             //Declaracio variables
             int horaCompleta, hores, minuts, segons;
-            string resultat;
 
             //Entrada dades
             Console.Write("Escriu una hora en format 24 hores: ");
@@ -16,22 +15,26 @@
             hores = horaCompleta / 10000;
             minuts = horaCompleta % 10000 /100;
             segons = horaCompleta % 100;
-            resultat = HoraValida(hores, minuts, segons);
 
             //Sortida dades
             Console.Clear();
-            Console.WriteLine($"La hora {horaCompleta} {resultat}");
+            if (HoraValida(hores, minuts, segons))
+                Console.WriteLine($"L'hora {horaCompleta} és vàlida");
+            else
+                Console.WriteLine($"L'hora {horaCompleta} és vàlida");
         }
-        public static string HoraValida(int h, int m, int s)
+        public static bool HoraValida(int h, int m, int s)
         {
-            if (h < 24 && m < 60 && s < 60)
+            bool horaValida;
+            if (h >= 0 && h < 24 && m >= 0 && m < 60 && s >= 0 && s < 60)
             {
-                return "és vàlida";
+                horaValida = true;
             }
             else
             {
-                return "no és vàlida";
+                horaValida = false;
             }
+            return horaValida;
         }
     }
 }
