@@ -1,0 +1,15 @@
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\bin\Debug\net8.0\Ex15.exe
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\bin\Debug\net8.0\Ex15.deps.json
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\bin\Debug\net8.0\Ex15.runtimeconfig.json
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\bin\Debug\net8.0\Ex15.dll
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\bin\Debug\net8.0\Ex15.pdb
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\obj\Debug\net8.0\Ex15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\obj\Debug\net8.0\Ex15.AssemblyInfoInputs.cache
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\obj\Debug\net8.0\Ex15.AssemblyInfo.cs
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\obj\Debug\net8.0\Ex15.csproj.CoreCompileInputs.cache
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\obj\Debug\net8.0\Ex15.sourcelink.json
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\obj\Debug\net8.0\Ex15.dll
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\obj\Debug\net8.0\refint\Ex15.dll
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\obj\Debug\net8.0\Ex15.pdb
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\obj\Debug\net8.0\Ex15.genruntimeconfig.cache
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\Ex15\obj\Debug\net8.0\ref\Ex15.dll
